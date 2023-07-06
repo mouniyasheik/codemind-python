@@ -1,5 +1,5 @@
 n=int(input())
-for i in range(0,n):
+for i in range(n):
     l,v=map(int,input().split())
     s=list(map(int,input().split()))
     b=list(map(int,input().split()))
