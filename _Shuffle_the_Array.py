@@ -10,5 +10,4 @@ while i<nn:
     if j<n:
         p.append(l[j])
         j+=1
-print(*p)    
-   
+print(*p)  
